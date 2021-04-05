@@ -54,3 +54,9 @@ ol > li {
   justify-content: space-between;
   align-items: center;
 }
+
+h2 + img {
+  order: -1;
+  max-width: 15em;
+  margin: 1.5rem;
+}
