@@ -60,3 +60,14 @@ h2 + img {
   max-width: 15em;
   margin: 1.5rem;
 }
+
+ol ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+}
