@@ -71,3 +71,17 @@ ol ul {
   align-items: center;
   align-self: stretch;
 }
+
+ul a {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+ul li {
+  padding: 0 .25em;
+}
+
+ul a img {
+  margin-right: .25em;
+}
