@@ -47,6 +47,7 @@ ol > li {
   border: 3px solid #987ffa;
   border-radius: 6px;
   padding: 1rem;
+  padding-top: 0;
 
   display: flex;
   flex-direction: column;
@@ -57,7 +58,7 @@ ol > li {
 h2 + img {
   order: -1;
   max-width: 15em;
-  margin: 1.5rem;
+  margin: 1rem;
 }
 
 ol ul {
@@ -78,7 +79,7 @@ ul a {
 }
 
 ul li {
-  padding: 0 .25em;
+  padding: .25em;
 }
 
 ul li:first-child {
